@@ -1,0 +1,12 @@
+# News brief — Wednesday 25 November 2026
+
+The six stories pictured in `entry.png`, each first reported (or, for the drills, begun) on 25 November 2026.
+
+1. **Australia apologises to LGBTQ veterans** — The Australian government formally apologised in parliament to current and former LGBTQ service members for decades of discriminatory policies. Source: Reuters, "Australia apologises to LGBTQ veterans for past discrimination in the military", 25 Nov 2026.
+2. **RFE/RL returns to shortwave with school radio for Afghan girls** — Radio Free Europe/Radio Liberty resumed shortwave broadcasting in Afghanistan with new educational programming for girls barred from school by the Taliban. Source: RFE/RL, "RFE/RL Returns To Shortwave With New Educational Radio For Afghan Girls", 25 Nov 2026.
+3. **China–Cambodia Golden Dragon drills begin** — The eighth Golden Dragon joint exercise began on 25 November, running to 9 December, with three Chinese warships docked at Ream Naval Base. Source: KPS TV, "Three Chinese Warships Dock at Ream Naval Base Ahead of 'Golden Dragon 2026' Exercise", 24 Nov 2026 (exercise dates 25 Nov–9 Dec 2026).
+4. **Houthis threaten Jeddah and Saudi Red Sea ports** — Yemen's Houthis said the Saudi port of Jeddah and all other Saudi Red Sea ports would be targeted if Saudi Arabia attacked the Yemeni port of Hodeidah. Source: Reuters, "Yemen's Houthis threaten to target Jeddah and other Saudi Red Sea ports", 25 Nov 2026.
+5. **Australia and Solomon Islands sign security pact** — Australia and Solomon Islands signed a security pact making Canberra the island nation's defence partner of choice. Source: Reuters, "Australia and Solomon Islands sign security pact", 25 Nov 2026.
+6. **Asian stocks slide as the AI rally fades** — Asian shares fell early on Wednesday as fresh US tariff threats hit sentiment and the tech-led rebound stalled, with South Korea down as much as 5.3% and Taiwan 5.1% at the worst point. Source: Reuters, "Stocks retreat as AI rebound stumbles, tariff threats loom", 25 Nov 2026.
+
+Note: the leading stories circulating on the morning of 25 November that were first reported on 24 November (Zelenskiy's confirmation of the Sparta II strike, Russia's "terrorism" charge over the Baltic and Libya ship attacks, the Dymer apartment-block toll, the NATO AWACS deployment, the EU's 22nd sanctions package, and England's T20I win) were checked and left out; the six above are the ones verified as first reported or happening on 25 November itself.
